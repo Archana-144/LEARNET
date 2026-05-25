@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="D:/Syssfore(backend)/LEARNET.API/LEARNET.API/LEARNET.API.csproj" />
+  <Project Path="D:/Syssfore(backend)/LEARNET.API/LEARNET.Common/LEARNET.Common.csproj" />
+  <Project Path="D:/Syssfore(backend)/LEARNET.API/LEARNET.Data/LEARNET.Data.csproj" />
+  <Project Path="D:/Syssfore(backend)/LEARNET.API/LEARNET.Services/LEARNET.Services.csproj" />
+  <Project Path="D:/Syssfore(backend)/LEARNET.API/LEARNET.Store/LEARNET.Store.csproj" />
+</Solution>
