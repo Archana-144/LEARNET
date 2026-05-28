@@ -1,11 +1,6 @@
 bin/
 obj/
 .vs/
-
 *.user
 *.suo
-
-.vscode/
-.idea/
-
-*.log
+appsettings.Development.json

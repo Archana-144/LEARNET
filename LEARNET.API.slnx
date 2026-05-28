@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
   <Project Path="D:/Syssfore(backend)/LEARNET.API/LEARNET.API/LEARNET.API.csproj" />
   <Project Path="D:/Syssfore(backend)/LEARNET.API/LEARNET.Common/LEARNET.Common.csproj" />
   <Project Path="D:/Syssfore(backend)/LEARNET.API/LEARNET.Data/LEARNET.Data.csproj" />
